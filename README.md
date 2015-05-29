@@ -28,8 +28,11 @@ git log --pretty-oneline
 
 git config core.editor <vim>  # interactive commands
 git config merge.tool <opendiff>  # merging/conflicts
-````
-[This is other text][]
+````  
+[This is other text][]  
+
+[SomeText](#SomeText)  
+
 test  
 test  
 test  
@@ -61,7 +64,7 @@ test
 
 
 
-### Some Text ###
+### SomeText ###
 
 
 
