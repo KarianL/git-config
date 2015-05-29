@@ -31,7 +31,7 @@ git config merge.tool <opendiff>  # merging/conflicts
 ````  
 [This is other text][]  
 
-[SomeText](#SomeText)  
+[SomeText](#user-content-sometext)  
 
 test  
 test  
