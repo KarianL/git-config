@@ -15,6 +15,9 @@ git config [--global] color.ui true
 ````
 git log --pretty-oneline
 ````
+
+[Some Text][]
+
 样式：oneline, short, medium, full, fuller, email, raw, format:<string>
     defaults to medium.
 .git/config配置文件
@@ -26,11 +29,30 @@ git log --pretty-oneline
 git config core.editor <vim>  # interactive commands
 git config merge.tool <opendiff>  # merging/conflicts
 ````
-
+[This is other text][]
 test  
 test  
 test  
 
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
+test  
 
 
 
@@ -39,12 +61,13 @@ test
 
 
 
+### Some Text ###
 
 
 
 
 
-
+### Other Text [This is other text] ###
 
 
 
