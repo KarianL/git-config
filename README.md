@@ -1,5 +1,5 @@
 # git-config
-
+[linked](#a)
 ## 让git log变成彩色
 命令：
 ````
@@ -22,7 +22,32 @@ git log --pretty-oneline
 [format]
   pretty = oneline
   
-``
+
 git config core.editor <vim>  # interactive commands
 git config merge.tool <opendiff>  # merging/conflicts
-``
+````
+
+test  
+test  
+test  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="a"></a>
